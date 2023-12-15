@@ -1,4 +1,4 @@
-# AISD_proj_1
+# ParserCSS
 
 Project in the subject of Algorithms and Data Structures. It was about the CSS parser. 
 The program loads the CSS code and runs the command given by the user (they were provided in the project application).
